@@ -1,6 +1,6 @@
 # ecommerce_flutteapp_practice
 
-Just for entertainment
+Just for practice, by Arcangellmar of https://youtu.be/XBKzpTz65Io
 
 ## Getting Started
 
